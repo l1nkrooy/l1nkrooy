@@ -14,4 +14,4 @@
 - **[tbh.service](https://github.com/l1nkrooy/tbh.service)**: сайт для продажи игровых услуг
 
 ## 📫 Связь
-Telegram: @ваш_ник
+Telegram: @l1nkrooy
